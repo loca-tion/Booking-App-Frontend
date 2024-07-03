@@ -41,11 +41,11 @@ This Page get the Single Place from dataBase  which includes features like to bo
 - The Account page have features like My profile , My  bookings and My accomodations.
 - ![image](https://github.com/loca-tion/Booking-App-Frontend/assets/95977443/63af28c4-cb9b-42cc-b11a-f2e77393b2be)
 - ![image](https://github.com/loca-tion/Booking-App-Frontend/assets/95977443/51152e6e-62a0-4969-94b3-5e54a16e1c56)
-- ![image](https://github.com/loca-tion/Booking-App-Frontend/assets/95977443/a33c2f20-4380-45b4-b48b-a76b0ca251d8)
+- ![image](https://github.com/loca-tion/Booking-App-Frontend/assets/95977443/21b93626-1971-4595-a4b1-9d9714b9628f)
 
 - Add new Place Feature :
+- ![image](https://github.com/loca-tion/Booking-App-Frontend/assets/95977443/a33c2f20-4380-45b4-b48b-a76b0ca251d8)
 - ![image](https://github.com/loca-tion/Booking-App-Frontend/assets/95977443/36542358-7e8e-4900-a0ce-c652cf798a84)
--![Uploading image.png…]()
 
 
 
